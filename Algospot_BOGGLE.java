@@ -1,3 +1,5 @@
+//Time Complexity: O(8^word.length())
+
 import java.util.Scanner;
 
 public class Main {
