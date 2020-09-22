@@ -4,5 +4,6 @@ count: 1
 
 ## Algospot
 <ul>
-  <li>BOGLE</li>
+  <li>BOGGLE</li>
+  <li>PICNIC</li>
 </ul>
