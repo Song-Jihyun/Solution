@@ -1,5 +1,5 @@
 # Solution
-count: 3
+count: 4
 
 
 ## Algospot
@@ -7,4 +7,5 @@ count: 3
   <li>BOGGLE</li>
   <li>PICNIC</li>
   <li>BOARDCOVER</li>
+  <li>CLOCKSYNC</li>
 </ul>
