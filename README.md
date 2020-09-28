@@ -1,5 +1,5 @@
 # Solution
-count: 4
+count: 5
 
 
 ## Algospot
@@ -8,4 +8,9 @@ count: 4
   <li>PICNIC</li>
   <li>BOARDCOVER</li>
   <li>CLOCKSYNC</li>
+</ul>
+
+## LeetCode
+<ul>
+  <li>Decode Ways</li>
 </ul>
