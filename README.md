@@ -1,5 +1,5 @@
 # Solution
-count: 5
+count: 6
 
 
 ## Algospot
@@ -13,4 +13,5 @@ count: 5
 ## LeetCode
 <ul>
   <li>Decode Ways</li>
+  <li>Valid Sudoku</li>
 </ul>
