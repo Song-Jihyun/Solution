@@ -1,5 +1,5 @@
 # Solution
-count: 6
+count: 7
 
 
 ## Algospot
@@ -14,4 +14,5 @@ count: 6
 <ul>
   <li>Decode Ways</li>
   <li>Valid Sudoku</li>
+  <li>Merge Sorted Array</li>
 </ul>
