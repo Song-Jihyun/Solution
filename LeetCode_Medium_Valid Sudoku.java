@@ -1,4 +1,4 @@
-//Sulution 1. faster than 100% / memory less than 10.50&
+//Sulution 1. faster than 100.00% / memory less than 10.50%
 
 class Solution {
     public boolean isValidSudoku(char[][] board) {
