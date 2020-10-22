@@ -1,4 +1,5 @@
 //Solution 1. faster than 100.00% / memory less than 44.04%
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int[] ret = new int[m+n];
