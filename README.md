@@ -1,5 +1,5 @@
 # Solution
-count: 8
+count: 9
 
 
 ## Algospot
@@ -9,6 +9,7 @@ count: 8
   <li>BOARDCOVER</li>
   <li>CLOCKSYNC</li>
   <li>QUADTREE</li>
+  <li>FENCE</li>
 </ul>
 
 ## LeetCode
