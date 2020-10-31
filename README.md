@@ -1,5 +1,5 @@
 # Solution
-count: 14
+count: 15
 
 
 ## Algospot
@@ -10,6 +10,7 @@ count: 14
   <li>CLOCKSYNC</li>
   <li>QUADTREE</li>
   <li>FENCE</li>
+  <li><del>FANMEETING</del></li>
 </ul>
 
 ## LeetCode
