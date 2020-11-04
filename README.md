@@ -1,5 +1,5 @@
 # Solution
-count: 15
+count: 16
 
 
 ## Algospot
@@ -11,6 +11,7 @@ count: 15
   <li>QUADTREE</li>
   <li>FENCE</li>
   <li><del>FANMEETING</del></li>
+  <li>JUMPGAME</li>
 </ul>
 
 ## LeetCode
