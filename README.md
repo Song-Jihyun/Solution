@@ -1,5 +1,5 @@
 # Solution
-count: 16
+count: 17
 
 
 ## Algospot
@@ -12,6 +12,7 @@ count: 16
   <li>FENCE</li>
   <li><del>FANMEETING</del></li>
   <li>JUMPGAME</li>
+  <li>! WILDCARD !</li>
 </ul>
 
 ## LeetCode
