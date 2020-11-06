@@ -1,5 +1,5 @@
 # Solution
-count: 17
+count: 18
 
 
 ## Algospot
@@ -13,6 +13,7 @@ count: 17
   <li><del>FANMEETING</del></li>
   <li>JUMPGAME</li>
   <li>! WILDCARD !</li>
+  <li>TRIANGLEPATH</li>
 </ul>
 
 ## LeetCode
