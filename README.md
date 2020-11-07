@@ -1,5 +1,5 @@
 # Solution
-count: 18
+count: 19
 
 
 ## Algospot
@@ -14,6 +14,7 @@ count: 18
   <li>JUMPGAME</li>
   <li>! WILDCARD !</li>
   <li>TRIANGLEPATH</li>
+  <li>! LIS !</li>
 </ul>
 
 ## LeetCode
